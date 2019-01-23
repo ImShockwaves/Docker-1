@@ -3,7 +3,7 @@
 
 From the system and network administration 42 branch.
 
-<p float="left">
+<p align=center float="left">
     <a href="https://www.docker.com/"><img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" height="200" width="auto"></a>
 </p>
 
