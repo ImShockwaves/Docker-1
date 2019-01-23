@@ -1,10 +1,26 @@
-# Sysadmin
-Sytems and network administration/management
+<h1 align=center>System and network administration</h1>
+<h3>Sytems and network administration/management.</h3>
 
 From the system and network administration 42 branch.
 
-Projects : init, docker.
+<p float="left">
+    <a href="https://www.docker.com/"><img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" height="200" width="auto"></a>
+</p>
 
-######################################## init ############################################
+Projects : 
+* [x] **init**
+* [x] **Roger-skyline-v1**
+* [x] **docker-1**
 
-Ce projet est une introduction à l'administration système et au réseau, proposé par l'équipe slash16.
+### Docker-1
+***
+```
+The aim of the Docker-1 project is to make you handle docker and docker-machine, the
+bases to understand the idea of containerization of services. You can see this project as
+an initiation.
+```
+## author
+
+From the System and network administration 42 branch
+
+By [**ccharrie**](https://profile.intra.42.fr/users/ccharrie)
